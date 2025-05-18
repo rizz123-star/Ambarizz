@@ -1,5 +1,5 @@
 {
-  "name": "@slnckyami/V3-Baileys",
+  "name": "@rizz123-star/Ambarizz",
   "version": "1.0.2",
   "description": "WhatsApp Beta",
   "keywords": [
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/SlncKyami/@slnckyami/V3-Baileys",
+  "homepage": "https://github.com/rizz123-star/Ambarizz",
   "repository": {
-    "url": "git@github.com:SlncKyami/@slnckyami/V3-Baileys.git"
+    "url": "git@github.com:rizz123-star/Ambarizz.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "RizzSuki",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
